@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497905028711",
+    "project_id": "perseverancestudy-9b67a",
+    "storage_bucket": "perseverancestudy-9b67a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497905028711:android:f7a3aa61d4c3a48a834ec2",
+        "android_client_info": {
+          "package_name": "com.perseverance.study"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkS71zOuORWojPa8uJPbVuCEVLY29eBpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
